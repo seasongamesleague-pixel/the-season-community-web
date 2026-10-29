@@ -1,0 +1,2 @@
+/liga https://seasongamesleague.com/ 301
+/liga/* https://seasongamesleague.com/:splat 301
